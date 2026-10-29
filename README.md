@@ -64,5 +64,114 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bookkeep.com is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+Bookkeep.com provides accounting automation solutions for Shopify and other ecommerce platforms, offering features such as automated reconciliation, sales tax compliance, multi‑bank settlement, inventory management, and integration with various POS and marketplace systems. It targets merchants, retailers, franchises, and accounting firms, delivering a unified financial workflow across online and offline sales channels.
+
+**Areas:** Company · Accounting · Automation · Shopify · E-Commerce · Integration
+
+## Bookkeep.com on APIs.io
+
+Everything profiled for Bookkeep.com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bookkeep-com/](https://apis.io/providers/bookkeep-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Bookkeep API v1](https://apis.io/apis/bookkeep-com/bookkeep-api-v1/) — API reference for Bookkeep version 1, covering endpoints for accounting automation.
+- [Bookkeep.com Entities API](https://apis.io/apis/bookkeep-com/bookkeep-com-entities-api/) — The Entities API from Bookkeep.com — 4 operation(s) for entities.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [GetV1EntitiesResponse](https://apis.io/schemas/bookkeep-com/bookkeep-com-get-v1-entities-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Bookkeep Com Context](https://apis.io/jsonld/bookkeep-com/bookkeep-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Bookkeep.com API Rules](https://apis.io/rules/bookkeep-com/bookkeep-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bookkeep Com Domain Security](https://apis.io/security/bookkeep-com/bookkeep-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Bookkeep Com Plans Pricing](https://apis.io/plans/bookkeep-com/bookkeep-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.bookkeep.com/)
+- [Documentation](http://www.bookkeep.com/docs)
+- [Getting started](https://bookkeep.com/docs/account-setup/connecting-an-accounting-platform/categories-versus-subcategories)
+- [Pricing](https://www.bookkeep.com/pricing)
+- [Sign up](https://app.bookkeep.com/signup)
+- [Terms of service](https://www.bookkeep.com/terms)
+- [Privacy policy](https://www.bookkeep.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 36.4** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 64.3 |
+| Contract quality | 20.1 |
+| Contract governance | 22.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 76.3 |
+
+**Agent readiness 35.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | documented (partial credit) |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bookkeep-com/](https://apis.io/providers/bookkeep-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bookkeep.com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bookkeep-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
